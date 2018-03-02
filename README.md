@@ -1,2 +1,0 @@
-# awesome_repo
-test
